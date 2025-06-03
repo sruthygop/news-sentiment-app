@@ -106,4 +106,10 @@ This solution demonstrates a fully automated, cloud-native pipeline to monitor a
 
 # 🖼️ Architecture Diagram
 
-<sub>Figure: High-level architecture of the end-to-end pipeline</sub>
+![Architecture Diagram](architecture.jpeg)  
+<sub>Figure: architecture of the end-to-end pipeline</sub>
+
+# 📊 Dashboard Preview
+
+![Dashboard](streamlit_dashboard.png)
+<sub>Figure: Real-time sentiment dashboard built with Streamlit and deployed via ECS</sub>
