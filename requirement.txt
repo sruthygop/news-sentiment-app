@@ -1,7 +1,4 @@
 streamlit
-pandas
-numpy
-textblob
-requests
-sqlalchemy
 psycopg2-binary
+pandas
+textblob
